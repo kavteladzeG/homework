@@ -1,0 +1,16 @@
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+div{
+    display: inline;
+    border-radius: 1px solid black;
+}
+
+.headline{
+    margin-top: 2px;
+    margin-left: 300px;
+}
+
